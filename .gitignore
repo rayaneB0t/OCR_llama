@@ -1,0 +1,8 @@
+# Python venv
+venv/
+# Environment file with your API key
+.env
+# OS / editor cruft
+__pycache__/
+*.pyc
+.DS_Store
